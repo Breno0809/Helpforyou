@@ -18,6 +18,10 @@ class _LoginState extends State<Login> {
   bool visible=false;
   bool param=true;
 
+
+
+  //teste
+
 //   void _sendEmail() async {
 //     bool result = await email.sendMessage('help for you recuperação de senha', 'anafurlan2004@gmail.com', 'help for recuperação de senha');
 //     setState(() {
